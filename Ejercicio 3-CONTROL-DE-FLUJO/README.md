@@ -39,3 +39,12 @@ Este repositorio contiene una serie de ejercicios prácticos enfocados en domina
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/tu-usuario/nombre-del-repositorio.git](https://github.com/tu-usuario/nombre-del-repositorio.git)
+  
+---
+
+## 👤 Autora
+### Karina M.
+
+### Desarrolladora Web Full Stack Java
+
+   
